@@ -1,0 +1,118 @@
+body {
+    background-color: #301d22;
+    color: whitesmoke;
+}
+
+.super {
+    background-color: #301d22;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.top {
+    border-bottom: 0.5em solid #54353c;
+    float: left;
+    width: 100%;
+}
+
+.topLeft {
+   float: left;
+    width: 8%;
+}
+
+.topMiddle {
+    float: left;
+    width: 80%;
+}
+
+.topRight {
+     float: left;
+    width: 8%;
+}
+
+.cancel {
+   background-color: #33292b;
+    border: 0.3em solid #635e37;
+    color: gray;
+    float: left;
+    font-family: arial;
+    font-size: 3.5vw;
+    margin-bottom: 11%;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 58%;
+}
+.selectedText {
+    background-color: #515151;
+    border-color: gray;
+    border-style: solid;
+    border-width: 0.2em 0.5em;
+    color: yellow;
+    float: left;
+    font-family: arial;
+    font-size: 1.5vw;
+    margin-top: 2%;
+    padding: 1%;
+    width: 93%;
+
+}
+
+.listen {
+  background-color: #33292b;
+    border: 0.3em solid #a54a04;
+    color: #a54a04;
+    float: left;
+    font-family: arial;
+    font-size: 3.2vw;
+    font-weight: bold;
+    margin-bottom: 7%;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-bottom: 4%;
+    width: 67%;
+}
+
+.main {
+    float: left;
+    width: 100%;
+}
+
+.mainLeft {
+    border-right: 0.5em solid #54353c;
+    float: left;
+    width: 10%;
+}
+
+.mainMiddle {
+    float: left;
+    width: 85%
+}
+
+.textItem {
+    float: left;
+    border: 0.5em solid #9b2e49;
+    background-color: #635e37;
+
+}
+
+.simpleType {
+    width: 15%;
+    margin: 1%;
+
+}
+
+.aloneType {
+    margin-top: 8%;
+    width: 80%;
+}
+
+.theText {
+    color: #d6c546;
+    float: left;
+    font-family: arial;
+    font-size: 1.5vw;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    width: 100%;
+}
